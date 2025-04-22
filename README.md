@@ -23,15 +23,21 @@ Hi, I'm Red Halo - a cybersecurity enthusiast and ethical hacker. This public to
 
 ---
 
-### Upcoming Tools
+### RedVenom (Live)
+- **Purpose**: Exploitation Framework
+- **Language**: Python
+- **Repo**: [RedVenom](https://github.com/ljcaliri1/RedVenom) 
 
-- **RedVenom**: - Exploitation Framework
-- **RedFang**: - Payload Generation & Delivery 
+---
+
+### RedFang (Live)
+- **Purpose**: Payload Generation & Delivery
+- **Language**: Python
+- **Repo**: [RedFang](https://github.com/ljcaliri1/RedFang)
 
 ---
 
 ### Connect
-
 - **GitHub**: [@ljcaliri1](https://github.com/ljcaliri1)
 - **Alias**: Red Halo
 - **Mission**: Rooted in white-hat values. Build better tools. Leave no trace but excellence. 
